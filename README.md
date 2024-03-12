@@ -10,7 +10,7 @@ To install this package, in the console of a Spyder python prompt type:
  
 Once pandas_datereader has been installed, the script is ready to be fun.
 
-To run the JS file example, you will need to: **npm install axios cheerio**
+To run the JS file example, you will need to: **npm install axios cheerio papaparse plotly.js**
  
 ### 2. Running the Program.
  
