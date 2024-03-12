@@ -22,4 +22,4 @@ If the user inputs an invalid format type for the input, the program will contin
  
 - Yuding Wang    |   yudingw@andrew.cmu.edu
 - Yuvraj Mehra   |   ymehra@andrew.cmu.edu
-- Peter Previte   |   pprevite@andrew.cmu.edu# DFP
+- Peter Previte   |   pprevite@andrew.cmu.edu
